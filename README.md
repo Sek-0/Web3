@@ -1,6 +1,6 @@
 # Web3
 
-## lexicon : [Lexicon](/lexicon.md) 
+## [Lexicon](/lexicon.md) 
 
 ## Docs : 
 
@@ -10,3 +10,4 @@
 
 - Etherscan : https://etherscan.io/
 - Metamask : https://metamask.io/
+- RemixIde : https://remix.ethereum.org/
