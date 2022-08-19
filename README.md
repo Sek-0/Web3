@@ -5,6 +5,7 @@
 ## Docs : 
 
 - Ethereum Docs : https://ethereum.org/en/developers/doc
+- Solidity : https://docs.soliditylang.org/
 
 ## Tools :
 
@@ -17,6 +18,10 @@
 ## Cool Things to understand : 
 
 - https://andersbrownworth.com/blockchain/
+
+## Interesting Repos :
+
+- https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
 ## Good YT resources : 
 
