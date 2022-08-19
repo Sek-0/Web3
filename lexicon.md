@@ -9,6 +9,10 @@
 
 ### C 
 
+<details><summary>Consensus</summary>
+<p>It is the mechanism used to agree on the state of the blockchain</p>
+</details>
+
 ### D
 
 <details><summary>DeFi</summary>
@@ -47,6 +51,15 @@
 ### O
 
 ### P
+
+<details><summary>PoW : Proof of Work</summary>
+<p></p>
+</details>
+
+<details><summary>PoS : Proof of Stake</summary>
+<p></p>
+</details>
+
 
 ### Q
 
