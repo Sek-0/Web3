@@ -1,5 +1,5 @@
 
-# Lexicon
+# Lexicon of Terms and common 
 
 ## This is a complete lexicon about all the word related to blockchain, smart contract etc.
 
