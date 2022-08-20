@@ -4,7 +4,7 @@
 
 ## Docs : 
 
-- Ethereum Docs : https://ethereum.org/en/developers/doc
+- Ethereum Docs : https://ethereum.org/en/developers/docs/
 - Solidity : https://docs.soliditylang.org/
 
 ## Tools :
