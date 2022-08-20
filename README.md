@@ -7,6 +7,10 @@
 - Ethereum Docs : https://ethereum.org/en/developers/docs/
 - Solidity : https://docs.soliditylang.org/
 - Chain Link doc : https://docs.chain.link/
+- Brownie Lib docs : https://eth-brownie.readthedocs.io/
+- web3.js docs : https://web3js.readthedocs.io/
+- web3.py docs : https://web3py.readthedocs.io/
+- infura docs : https://docs.infura.io/infura/
 
 ## Tools :
 
@@ -15,6 +19,7 @@
 - RemixIde : https://remix.ethereum.org/
 - Converter : https://eth-converter.com/
 - ChainLInk : https://data.chain.link/
+
 
 ## Training Platforms : 
 - [ ] list of CTFs : https://github.com/blockthreat/blocksec-ctfs
