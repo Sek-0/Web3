@@ -17,11 +17,11 @@
 - ChainLInk : https://data.chain.link/
 
 ## Training Platforms : 
-- list of CTFs : https://github.com/blockthreat/blocksec-ctfs
-- Capture the ether : 
-- Cryptozombie : 
-- ethernaut : 
-- DamnVulnerableDefi : 
+- [ ] list of CTFs : https://github.com/blockthreat/blocksec-ctfs
+- [ ] Capture the ether : https://capturetheether.com
+- [ ] Cryptozombie : https://cryptozombies.io
+- [ ] ethernaut : https://ethernaut.openzeppelin.com/
+- [ ] DamnVulnerableDefi : https://www.damnvulnerabledefi.xyz/
 
 ## Cool Things to understand : 
 
