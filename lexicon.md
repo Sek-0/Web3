@@ -9,6 +9,10 @@
 
 ### C 
 
+<details><summary>Clients</summary>
+<p>A client is an implementation of Ethereum that verifies data against the protocol rules and keeps the network secure.</p>
+</details>
+
 <details><summary>Consensus</summary>
 <p>It is the mechanism used to agree on the state of the blockchain</p>
 </details>
@@ -19,12 +23,20 @@
 <p>Decentralized finance</p>
 </details>
 
+<details><summary>DaPP</summary>
+<p>Decentralized Applications</p>
+</details>
+
 
 ### E
 
 ### F
 
 ### G
+
+<details><summary>Gwei</summary>
+<p></p>
+</details>
 
 <details><summary>Gas</summary>
 <p>the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network.</p>
@@ -48,16 +60,25 @@
 <p>financial security consisting of digital data stored in a blockchain, a form of distributed ledger.</p>
 </details>
 
+<details><summary>Node</summary>
+<p>A "node" is any instance of Ethereum client software that is connected to other computers also running Ethereum software, forming a network.</p>
+</details>
+
 ### O
+
+
+<details><summary>Oracle</summary>
+<p>An oracle is a bridge between the blockchain and the real world. They act as on-chain APIs you can query to get information into your smart contracts. This could be anything from price information to weather reports. Oracles can also be bi-directional, used to "send" data out to the real world.</p>
+</details>
 
 ### P
 
 <details><summary>PoW : Proof of Work</summary>
-<p></p>
+<p>Proof-of-work is the mechanism that allows the decentralized Ethereum network to come to consensus, or agree on things like account balances and the order of transactions. This prevents users from "double spending" their coins and ensures that the Ethereum chain is tremendously difficult to attack or manipulate</p>
 </details>
 
 <details><summary>PoS : Proof of Stake</summary>
-<p></p>
+<p>Proof-of-stake is a type of consensus mechanism used by blockchains to achieve distributed consensus. In proof-of-work, miners prove they have capital at risk by expending energy. In proof-of-stake, validators explicitly stake capital in the form of ether into a smart contract on Ethereum. This staked ether then acts as collateral that can be destroyed if the validator behaves dishonestly or lazily. The validator is then responsible for checking that new blocks propagated over the network are valid and occasionally creating and propagating new blocks themselves.</p>
 </details>
 
 
@@ -75,6 +96,11 @@
 ### U
 ### V
 ### W
+
+<details><summary>Wei</summary>
+<p></p>
+</details>
+
 ### X
 ### Y
 ### Z
