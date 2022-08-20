@@ -15,6 +15,11 @@
 - Converter : https://eth-converter.com/
 
 ## Training Platforms : 
+- list of CTFs : https://github.com/blockthreat/blocksec-ctfs
+- Capture the ether : 
+- Cryptozombie : 
+- ethernaut : 
+- DamnVulnerableDefi : 
 
 ## Cool Things to understand : 
 
