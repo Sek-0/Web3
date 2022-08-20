@@ -28,9 +28,10 @@
 - https://andersbrownworth.com/blockchain/
 - https://solidity-by-example.org/
 
-## Interesting Repos :
+## Useful Repos :
 
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+- OpenZeppelin : https://github.com/OpenZeppelin/openzeppelin-contracts
 
 ## Good YT resources : 
 
