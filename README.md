@@ -11,6 +11,7 @@
 - web3.js docs : https://web3js.readthedocs.io/
 - web3.py docs : https://web3py.readthedocs.io/
 - infura docs : https://docs.infura.io/infura/
+- HardHat docs : https://hardhat.org/docs
 
 ## Tools :
 
