@@ -20,6 +20,7 @@
 - RemixIde : https://remix.ethereum.org/
 - Converter : https://eth-converter.com/
 - ChainLInk : https://data.chain.link/
+- Getting ChainId and more : https://chainlist.org/
 
 
 ## Training Platforms : 
