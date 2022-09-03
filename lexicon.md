@@ -32,6 +32,10 @@
 
 ### F
 
+<details><summary>Fork</summary>
+<p>A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.</p>
+</details>
+
 ### G
 
 <details><summary>Gwei</summary>
