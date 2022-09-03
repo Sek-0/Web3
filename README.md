@@ -29,6 +29,10 @@
 - [ ] Cryptozombie : https://cryptozombies.io
 - [ ] ethernaut : https://ethernaut.openzeppelin.com/
 - [ ] DamnVulnerableDefi : https://www.damnvulnerabledefi.xyz/
+- [ ] How To Web3 : https://www.howtoweb3.guide/
+- [ ] Speedrun ethereum : https://speedrunethereum.com/
+- [ ] NFT School : https://nftschool.dev/
+
 
 ## Cool Things to understand : 
 
@@ -38,9 +42,10 @@
 ## Useful Repos :
 
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-js
-- OpenZeppelin : https://github.com/OpenZeppelin/openzeppelin-contracts
+- OpenZeppelin : https://github.com/OpenZeppelin/
+- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
 ## Good YT resources : 
 
 - Learn Blockchain,Solidity, Full stack Web3 dev in JS : https://youtu.be/gyMwXuJrbJQ
-
+- Learn Blockchain,Solidity, Full stack Web3 dev in PYTHON : https://www.youtube.com/watch?v=M576WGiDBdQ
