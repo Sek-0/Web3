@@ -5,7 +5,24 @@
 
 ### A
 
+<details><summary>AAVE</summary>
+<p></p>
+</details>
+
+<details><summary>APR</summary>
+<p></p>
+</details>
+
+<details><summary>AMM</summary>
+<p></p>
+</details>
+
 ### B
+
+<details><summary>Bridge</summary>
+<p></p>
+</details>
+
 
 ### C 
 
@@ -19,6 +36,10 @@
 
 ### D
 
+<details><summary>Dex</summary>
+<p></p>
+</details>
+
 <details><summary>DeFi</summary>
 <p>Decentralized finance</p>
 </details>
@@ -31,6 +52,10 @@
 ### E
 
 ### F
+
+<details><summary>Flash Loans</summary>
+<p></p>
+</details>
 
 <details><summary>Fork</summary>
 <p>A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.</p>
@@ -52,6 +77,26 @@
 ### J
 ### K
 ### L
+
+<details><summary>leveraging</summary>
+<p></p>
+</details>
+
+<details><summary>Liquidity Provider</summary>
+<p></p>
+</details>
+
+<details><summary>Liquidity Mining</summary>
+<p></p>
+</details>
+
+<details><summary>LP Tokens</summary>
+<p></p>
+</details>
+
+<details><summary>Liquidity Pools</summary>
+<p></p>
+</details>
 
 <details><summary>Ledger</summary>
 <p>a digital file that tracks all the transactions. The ledger file is not stored in a central entity server, like a bank, or in a single data centre.</p>
@@ -77,6 +122,10 @@
 
 ### P
 
+<details><summary>Peer To Peer</summary>
+<p></p>
+</details>
+
 <details><summary>PoW : Proof of Work</summary>
 <p>Proof-of-work is the mechanism that allows the decentralized Ethereum network to come to consensus, or agree on things like account balances and the order of transactions. This prevents users from "double spending" their coins and ensures that the Ethereum chain is tremendously difficult to attack or manipulate</p>
 </details>
@@ -92,11 +141,20 @@
 
 ### S
 
+<details><summary>Scaling Platform</summary>
+<p></p>
+</details>
+
 <details><summary>Smart Contracts</summary>
 <p>programs stored on a blockchain that run when predetermined conditions are met.</p>
 </details>
 
 ### T
+
+<details><summary>Token Swap</summary>
+<p></p>
+</details>
+
 ### U
 ### V
 ### W
@@ -107,6 +165,11 @@
 
 ### X
 ### Y
+
+<details><summary>Yield Farming</summary>
+<p></p>
+</details>
+
 ### Z
 
 ### Other
