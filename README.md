@@ -12,6 +12,7 @@
 - web3.py docs : https://web3py.readthedocs.io/
 - infura docs : https://docs.infura.io/infura/
 - HardHat docs : https://hardhat.org/docs
+- Polygon docs : https://wiki.polygon.technology/
 
 ## Tools :
 
@@ -32,6 +33,7 @@
 - [ ] How To Web3 : https://www.howtoweb3.guide/
 - [ ] Speedrun ethereum : https://speedrunethereum.com/
 - [ ] NFT School : https://nftschool.dev/
+- [ ] EatTheBlockhttps://eattheblocks.com/
 
 
 ## Cool Things to understand : 
