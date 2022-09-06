@@ -33,7 +33,7 @@
 - [ ] How To Web3 : https://www.howtoweb3.guide/
 - [ ] Speedrun ethereum : https://speedrunethereum.com/
 - [ ] NFT School : https://nftschool.dev/
-- [ ] EatTheBlockhttps://eattheblocks.com/
+- [ ] EatTheBlockhttps: https://eattheblocks.com/
 
 
 ## Cool Things to understand : 
