@@ -36,10 +36,15 @@
 - [ ] EatTheBlockhttps: https://eattheblocks.com/
 
 
-## Cool Things to understand : 
+## Cool Ressources : 
 
 - https://andersbrownworth.com/blockchain/
 - https://solidity-by-example.org/
+- https://tom-sol.notion.site/Security-0611ce7d8d644ca3a05716cf5f8e45d4
+- https://telegra.ph/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31
+- https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities
+- https://secureum.substack.com/p/audit-findings-101
+- https://secureum.substack.com/p/audit-findings-201
 
 ## Useful Repos :
 
