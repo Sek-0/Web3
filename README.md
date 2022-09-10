@@ -45,6 +45,7 @@
 - https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities
 - https://secureum.substack.com/p/audit-findings-101
 - https://secureum.substack.com/p/audit-findings-201
+- https://consensys.github.io/smart-contract-best-practices/
 
 ## Useful Repos :
 
