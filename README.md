@@ -48,6 +48,7 @@
 - https://secureum.substack.com/p/audit-findings-101
 - https://secureum.substack.com/p/audit-findings-201
 - https://consensys.github.io/smart-contract-best-practices/
+- https://eips.ethereum.org/
 
 ## Useful Repos :
 
