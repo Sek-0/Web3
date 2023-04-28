@@ -13,7 +13,7 @@ Mythril is targeted at finding common vulnerabilities, and is not able to discov
 - Github : https://github.com/ConsenSys/mythril
 
 ## Installation 
-
+```
 ### Update
 sudo apt update
 
@@ -28,7 +28,7 @@ sudo apt install libssl-dev python3-dev python3-pip
 ### Install mythril
 pip3 install mythril
 myth version
-
+```
 ## Usage 
 
 ```
