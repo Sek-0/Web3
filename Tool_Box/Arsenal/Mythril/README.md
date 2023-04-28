@@ -10,3 +10,31 @@ Mythril is targeted at finding common vulnerabilities, and is not able to discov
 ## Useful Docs
 
 - https://mythril-classic.readthedocs.io/en/master/
+
+## Installation 
+
+### Update
+sudo apt update
+
+### Install solc
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:ethereum/ethereum
+sudo apt install solc
+
+### Install libssl-dev, python3-dev, and python3-pip
+sudo apt install libssl-dev python3-dev python3-pip
+
+### Install mythril
+pip3 install mythril
+myth version
+
+## Usage 
+
+```
+myth analyze <file_path>
+
+or
+
+myth analyze -a <ADDRESS> --infura-id <ID>
+```
+
