@@ -9,7 +9,8 @@ Mythril is targeted at finding common vulnerabilities, and is not able to discov
 
 ## Useful Docs
 
-- https://mythril-classic.readthedocs.io/en/master/
+- ReadTheDocs : https://mythril-classic.readthedocs.io/en/master/
+- Github : https://github.com/ConsenSys/mythril
 
 ## Installation 
 
