@@ -36,6 +36,10 @@
 - [ ] Speedrun ethereum : https://speedrunethereum.com/
 - [ ] NFT School : https://nftschool.dev/
 - [ ] EatTheBlockhttps: https://eattheblocks.com/
+- [ ] https://github.com/SunWeb3Sec/DeFiVulnLabs/
+- [ ] https://github.com/SunWeb3Sec/DeFiHackLabs
+- [ ] https://ctf.trustchain.agency/
+- [ ] https://quillctf.super.site/challenges
 
 
 ## Cool Ressources : 
