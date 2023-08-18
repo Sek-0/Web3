@@ -1,6 +1,6 @@
 # Web3
 
-## [Lexicon](/lexicon.md) 
+## [Vocabulary](/lexicon.md) 
 
 ## Docs : 
 
